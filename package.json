@@ -16,7 +16,10 @@
 		"babel-loader": "^8.0.6",
 		"browser-sync": "^2.26.5",
 		"browser-sync-webpack-plugin": "^2.2.2",
+<<<<<<< HEAD
 		"clean-webpack-plugin": "^3.0.0",
+=======
+>>>>>>> origin/master
 		"css-loader": "^2.1.1",
 		"eslint": "^5.16.0",
 		"eslint-config-airbnb-base": "^13.1.0",
